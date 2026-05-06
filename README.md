@@ -21,4 +21,5 @@ A React-based e-commerce frontend application.
 ```bash
 npm install
 npm start
+npm run server
 ```
